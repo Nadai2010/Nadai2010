@@ -7,6 +7,8 @@
 #### - 🎓 &nbsp; Enfocado un poco más a Cairo y Starknet, aprendiendo sus conceptos y lenguaje.
 #### - 💪 &nbsp; Colaborando con algunas Grandes comunidades y aprendiendo juntos.
 
+---
+
 <h3>🛠💻  Conocimientos y herramientas </h3>
 
 
