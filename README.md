@@ -44,25 +44,31 @@
 
 Aqui encontraras ID de Stark en test y varias comunidades que colaboro asi como un contacto directo:
 
-* ID Stark
+[![Starknet](https://img.shields.io/badge/-%F0%9F%8C%9A%20%20STARKNET-blue?style=for-the-badge&flat&logo=Starknet)](https://goerli.app.starknet.id/identities/151714611941) * ID Stark
 
-[![Starknet](https://img.shields.io/badge/-%F0%9F%8C%9A%20%20STARKNET-blue?style=for-the-badge&flat&logo=Starknet)](https://goerli.app.starknet.id/identities/151714611941)
+---
 
- 
-* L2 en Español
 <a href="https://t.me/s/l2espaniol" rel="nofollow">
   <img src="https://camo.githubusercontent.com/0ea1367897b9ee948089a0db824d57a30ce8a5413b59f80d2062b7efcd39ceb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74656c656772616d2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/telegram-%230077B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=blue" style="max-width:100%;">
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; * L2 en Español
 
-* StarkNetes - ETH Layer 2 Español
+---
+
 <a href="https://t.me/s/starknet_es" rel="nofollow">
   <img src="https://camo.githubusercontent.com/0ea1367897b9ee948089a0db824d57a30ce8a5413b59f80d2062b7efcd39ceb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74656c656772616d2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/telegram-%230077B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=blue" style="max-width:100%;">
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; * StarkNetes - ETH Layer 2 Español 
 
-* DefiLab 
+---
+
 <a href="https://t.me/s/DeFi_Lab" rel="nofollow">
   <img src="https://camo.githubusercontent.com/0ea1367897b9ee948089a0db824d57a30ce8a5413b59f80d2062b7efcd39ceb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74656c656772616d2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/telegram-%230077B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=blue" style="max-width:100%;">
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; * DefiLab 
+
+---
+
+<a href="https://t.me/joinchat/QN2nCFar4VsLzKEbFUTDfQ">
+  <img src="https://camo.githubusercontent.com/0ea1367897b9ee948089a0db824d57a30ce8a5413b59f80d2062b7efcd39ceb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74656c656772616d2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/telegram-%230077B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=blue" style="max-width:100%;">
+</a>&nbsp;&nbsp; * Escuela Crypto ES 
 
 -----
 
