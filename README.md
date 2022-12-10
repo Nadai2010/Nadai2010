@@ -2,6 +2,11 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=600&lines=👨🏻‍💻Nadai+usuario+Defi+y+Developer+más+👇👇👇.++++++++++)](https://git.io/typing-svg)
+
+<div align="left">
+    <img src="over.gif" style="width: 400px">
+</div>
+      
 ##  👋 Hola a todos, soy [Nadai!](https://github.com/Nadai2010?tab=repositories)
 
 #### - 👨🏻‍💻 &nbsp; Usuario Blockchain y amante de sus BUENAS soluciones. Privacidad, Seguridad y Descentralización.
